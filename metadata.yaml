@@ -1,0 +1,30 @@
+_repo: The-marrying-monster_70145
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stamm, Claus
+    gutenberg_agent_id: '55624'
+    url: http://www.gutenberg.org/2009/agents/55624
+description: ''
+gutenberg_issued: '2023-02-26'
+identifiers:
+  gutenberg: '70145'
+language: en
+pgterms:marc905: 20220527075859stamm
+pgterms:marc906: '1960'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aUnited States :$bGreat American Publications, Inc., $c1960.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Horror tales'
+- !lcsh 'Spouses -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The marrying monster
+url: http://www.gutenberg.org/ebooks/70145
