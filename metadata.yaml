@@ -1,11 +1,16 @@
 _repo: The-marrying-monster_70145
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70145-h/images/cover.jpg
 creator:
   author:
     agent_name: Stamm, Claus
     gutenberg_agent_id: '55624'
     url: http://www.gutenberg.org/2009/agents/55624
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70145#The-marrying-monster
 gutenberg_issued: '2023-02-26'
 identifiers:
   gutenberg: '70145'
